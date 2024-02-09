@@ -184,8 +184,8 @@ case $choice in
         ;;
     both)
         echo "Great choice!"
-        frontend
         backend
+        frontend
         end_message
         ;;
     *)
